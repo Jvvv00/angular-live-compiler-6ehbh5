@@ -1,0 +1,23 @@
+[
+  {
+    "rate": 7.5,
+    "review": "This is the long long long long long review for the movie from author",
+    "author": "Author",
+    "usefulCount": 100,
+    "totalCount": 130
+  },
+  {
+    "rate": 8.5,
+    "review": "This is the long long long long long review for the movie from author",
+    "author": "Author",
+    "usefulCount": 90,
+    "totalCount": 130
+  },
+  {
+    "rate": 6.5,
+    "review": "This is the long long long long long review for the movie from author",
+    "author": "Author",
+    "usefulCount": 110,
+    "totalCount": 130
+  }
+]

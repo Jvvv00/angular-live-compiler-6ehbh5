@@ -1,0 +1,27 @@
+[
+  {
+    "imageUrl": "https://dotnethow.net/images/movies/movie-1.jpeg",
+    "title": "Movie 1",
+    "rate": 9.0
+  },
+  {
+    "imageUrl": "https://dotnethow.net/images/movies/movie-2.jpeg",
+    "title": "Movie 2",
+    "rate": 8.0
+  },
+  {
+    "imageUrl": "https://dotnethow.net/images/movies/movie-3.jpeg",
+    "title": "Movie 3",
+    "rate": 7.0
+  },
+  {
+    "imageUrl": "https://dotnethow.net/images/movies/movie-4.jpeg",
+    "title": "Movie 4",
+    "rate": 8.0
+  },
+  {
+    "imageUrl": "https://dotnethow.net/images/movies/movie-6.jpeg",
+    "title": "Movie 5",
+    "rate": 6.0
+  }
+]

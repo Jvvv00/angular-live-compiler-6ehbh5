@@ -1,0 +1,6 @@
+<figure class="figure" *ngFor="let similarmovie of similarMovies">
+  <img [src]="similarmovie.imageUrl" class="figure-img img-fluid rounded img-thumbnail" 
+  style="max-width: 150px" alt="...">
+  <figcaption class="figure-caption">{{similarmovie.name}}</figcaption>
+  <figcaption class="figure-caption"><i class="bi bi-star"></i><b>{{similarmovie.rate}}/10</b></figcaption>
+</figure>

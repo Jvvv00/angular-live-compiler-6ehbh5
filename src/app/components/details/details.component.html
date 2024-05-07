@@ -1,0 +1,103 @@
+<h1>Movie Title</h1>
+<br />
+
+<div class="row">
+  <div class="col-md-6">
+    <iframe
+      width="450"
+      height="250"
+      src="https://www.youtube.com/embed/HENVx4Xg2P4?si=SF2mxM5WuLMBbuJw"
+      title="YouTube video player"
+      frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      referrerpolicy="strict-origin-when-cross-origin"
+      allowfullscreen
+    ></iframe>
+  </div>
+  <div class="col-md-6">
+    <p class="lead">This is some description for movie</p>
+    <div class="row">
+      <div class="col-md-4">
+        <div class="card">
+          <div class="card-header">Stars</div>
+          <ul class="list-group list-group-flush">
+            <li class="list-group-item" *ngFor="let star of stars">
+              {{ star }}
+            </li>
+          </ul>
+        </div>
+      </div>
+      <div class="col-md-4">
+        <div class="card">
+          <div class="card-header">Genre</div>
+          <ul class="list-group list-group-flush">
+            <li class="list-group-item" *ngFor="let genre of genres">
+              {{ genre }}
+            </li>
+          </ul>
+        </div>
+      </div>
+      <div class="col-md-4">
+        <div class="card">
+          <div class="card-header">Directors</div>
+          <ul class="list-group list-group-flush">
+            <li class="list-group-item" *ngFor="let director of directors">
+              {{ director }}
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<hr />
+<br />
+
+<div class="row">
+  <h1>Actors</h1>
+  <br />
+
+  <div class="col-md-12 text-center">
+    <app-details-actors></app-details-actors>
+  </div>
+
+  <div class="text-center">
+    <a class="btn btn-warning" routerLink="/details/actors/+movieId"
+      >View all actors</a
+    >
+  </div>
+</div>
+
+<hr />
+<br />
+
+<div class="row">
+  <h1>Reviews</h1>
+  <br />
+  <div class="col-md-12">
+    <app-details-reviews></app-details-reviews>
+  </div>
+  <div class="text-center">
+    <a class="btn btn-warning" routerLink="/details/reviews/+movieId"
+      >View all reviews</a
+    >
+  </div>
+</div>
+
+<hr />
+<br />
+
+<div class="row">
+  <h1>Similar Movie</h1>
+  <br />
+  <div class="col-md-12 text-center">
+    <app-details-movie></app-details-movie>
+  </div>
+
+  <div class="text-center">
+    <a class="btn btn-warning" routerLink="/details/movie/+movieId"
+      >View all movies</a
+    >
+  </div>
+</div>

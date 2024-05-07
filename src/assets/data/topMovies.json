@@ -1,0 +1,18 @@
+[
+  {
+    "imageUrl": "https://dotnethow.net/images/movies/movie-1.jpeg",
+    "title": "Movie Title 1",
+    "actors": "Movie Actors 1",
+    "year": "2023",
+    "rate": 9.0,
+    "rank": 1
+  },
+  {
+    "imageUrl": "https://dotnethow.net/images/movies/movie-2.jpeg",
+    "title": "Movie Title 2",
+    "actors": "Movie Actors 2",
+    "year": "2020",
+    "rate": 8.7,
+    "rank": 2
+  }
+]

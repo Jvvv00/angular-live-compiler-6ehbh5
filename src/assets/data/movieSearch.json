@@ -1,0 +1,32 @@
+[
+  {
+    "imageUrl": "https://dotnethow.net/images/movies/movie-1.jpeg",
+    "title": "Movie 1",
+    "description": "This is the description of the movie",
+    "detailsLink": "/details/1"
+  },
+  {
+    "imageUrl": "https://dotnethow.net/images/movies/movie-2.jpeg",
+    "title": "Movie 2",
+    "description": "This is the description of the movie",
+    "detailsLink": "/details/1"
+  },
+  {
+    "imageUrl": "https://dotnethow.net/images/movies/movie-3.jpeg",
+    "title": "Movie 3",
+    "description": "This is the description of the movie",
+    "detailsLink": "/details/1"
+  },
+  {
+    "imageUrl": "https://dotnethow.net/images/movies/movie-4.jpeg",
+    "title": "Movie 4",
+    "description": "This is the description of the movie",
+    "detailsLink": "/details/1"
+  },
+  {
+    "imageUrl": "https://dotnethow.net/images/movies/movie-5.jpeg",
+    "title": "Movie 5",
+    "description": "This is the description of the movie",
+    "detailsLink": "/details/1"
+  }
+]

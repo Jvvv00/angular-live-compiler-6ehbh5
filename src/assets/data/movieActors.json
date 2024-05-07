@@ -1,0 +1,27 @@
+[
+  {
+    "imageUrl": "https://dotnethow.net/images/actors/actor-1.jpeg",
+    "name": "Actor Name",
+    "role": "Role"
+  },
+  {
+    "imageUrl": "https://dotnethow.net/images/actors/actor-2.jpeg",
+    "name": "Actor Name",
+    "role": "Role"
+  },
+  {
+    "imageUrl": "https://dotnethow.net/images/actors/actor-3.jpeg",
+    "name": "Actor Name",
+    "role": "Role"
+  },
+  {
+    "imageUrl": "https://dotnethow.net/images/actors/actor-4.jpeg",
+    "name": "Actor Name",
+    "role": "Role"
+  },
+  {
+    "imageUrl": "https://dotnethow.net/images/actors/actor-5.jpeg",
+    "name": "Actor Name",
+    "role": "Role"
+  }
+]
